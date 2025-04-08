@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Test & coverage output
+htmlcov/
+coverage.xml
+*.cover
+
+# Logs
+*.log
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Other
+dist/
+build/
